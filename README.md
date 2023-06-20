@@ -7,7 +7,6 @@
 
 Welcome to my Github page! I am Mengtian and In April 2023, I proudly earned my Master's degree in Data Science from University of Michigan!  
 
-<img align="right" alt="img" src="https://github.com/mengtzhou/mengtzhou/img/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
